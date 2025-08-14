@@ -2,11 +2,5 @@
     "version": 2,
     "routes": [
       {"src": "/(.*)","dest": "https://crash2.337845818.best/index.html"}
-    ],
-    "rewrites": [
-    {
-      "source": "/(.*)",
-      "destination": "/index.html"
-    }
-  ]
+    ]
 }
