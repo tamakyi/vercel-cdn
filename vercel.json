@@ -1,6 +1,6 @@
 {
     "version": 2,
     "routes": [
-      {"src": "/(.*)","dest": "https://crash2.337845818.best"}
+      {"src": "/(.*)","dest": "https://crash2.337845818.best/$1"}
     ]
 }
