@@ -1,6 +1,6 @@
 {
     "version": 2,
     "routes": [
-      {"src": "/(.*)","dest": "https://box-beta.tama.guru/$1"}
+      {"src": "/(.*)","dest": "https://crash2.337845818.best"}
     ]
 }
